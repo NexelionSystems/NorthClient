@@ -26,5 +26,13 @@ For any questions or assistance, feel free to join our Discord server: https://d
 
 This repository is managed under the MIT license. © 2024-present NorthDevelopment
 <br/>
+## Star History
+<a href="https://star-history.com/#NexelionSystems/NorthClient&Date">
+ <picture>
+   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=NexelionSystems/NorthClient&type=Date&theme=dark" />
+   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=NexelionSystems/NorthClient&type=Date" />
+   <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=NexelionSystems/NorthClient&type=Date" />
+ </picture>
+</a>
 <br/>
 <p align="center"><a href="https://github.com/NorthDevelopment/NorthClient#"><img src="http://randojs.com/images/backToTopButtonTransparentBackground.png" alt="Back to top" height="29"/></a></p>
